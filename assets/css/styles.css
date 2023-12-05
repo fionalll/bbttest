@@ -1,0 +1,13 @@
+.myheading {
+}
+
+.telefonlar .col {
+  height: 624px;
+}
+
+.ip-15 {
+  background-image: url("../../assets/img/iphone15.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
